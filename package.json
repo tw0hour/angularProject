@@ -4,7 +4,8 @@
   "description": "",
   "main": "pokemon.js",
   "scripts": {
-    "start": "ts-node pokemon.ts",
+    "build": "tsc",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,7 +19,6 @@
   },
   "homepage": "https://github.com/tw0hour/angularProject#readme",
   "dependencies": {
-    "ts-node": "^9.1.1",
     "typescript": "^4.2.3"
   },
   "devDependencies": {
