@@ -2,9 +2,9 @@
   "name": "angularproject",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "pokemon.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "node pokemon.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tw0hour/angularProject/issues"
   },
-  "homepage": "https://github.com/tw0hour/angularProject#readme"
+  "homepage": "https://github.com/tw0hour/angularProject#readme",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
 }
