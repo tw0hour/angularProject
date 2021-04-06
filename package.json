@@ -4,7 +4,7 @@
   "description": "",
   "main": "pokemon.js",
   "scripts": {
-    "start": "node pokemon.js",
+    "start": "ts-node pokemon.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
