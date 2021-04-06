@@ -19,5 +19,8 @@
   "homepage": "https://github.com/tw0hour/angularProject#readme",
   "dependencies": {
     "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.37"
   }
 }
